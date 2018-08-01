@@ -1,0 +1,14 @@
+C:\Users\gevbancud\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojAssemblyReference.cache
+C:\Users\gevbancud\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\gevbancud\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\gevbancud\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\gevbancud\source\repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\gevbancud\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\gevbancud\source\repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
+C:\Users\gemba\Desktop\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\gemba\Desktop\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\gemba\Desktop\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\gemba\Desktop\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\gemba\Desktop\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\gemba\Desktop\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\gemba\Desktop\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
